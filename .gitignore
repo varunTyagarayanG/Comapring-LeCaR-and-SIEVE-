@@ -1,0 +1,16 @@
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore algorithm cache files
+alg/__pycache__/
+alg/lib/__pycache__/
+
+# Ignore result/output files
+LRU_LFUx4_5NoiseResult.txt
+
+# Ignore temporary or environment files (if applicable)
+.env
+*.log
+*.tmp
+.DS_Store
