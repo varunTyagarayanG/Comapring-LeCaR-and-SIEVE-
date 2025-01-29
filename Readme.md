@@ -18,17 +18,10 @@ LeCaR (Least-Cache-Recent) is a hybrid caching policy that dynamically balances 
 
 ## Results
 
-<div style="display: flex; justify-content: space-around;">
-  <img src="Images/HitGraph.png" alt="Hit Graph" style="width: 45%;"/>
-  <img src="Images/MissGraph.png" alt="Miss Graph" style="width: 45%;"/>
-</div>
-
-<div style="display: flex; justify-content: space-around;">
-  <img src="Images/Lecar.png" alt="LeCaR Graph" style="width: 45%;"/>
-  <img src="Images/Sieve_data.png" alt="Sieve Data Graph" style="width: 45%;"/>
-</div>
-
-
+![Hit Graph](Images/HitGraph.png)
+![Hit Graph](Images/MissGraph.png)
+![Hit Graph](Images/Lecar.png)
+![Hit Graph](Images/Sieve_data.png)
 
 ## Conclusion
 
